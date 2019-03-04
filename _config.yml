@@ -32,11 +32,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : 保育園をマッピング
-    description                           : 自宅から歩いて何分何秒かわかります。
+    description                           : 自宅周りの保育園が一目瞭然。自宅から歩いて何分何秒かわかります。
     fontawesome_icon_name                 : magic
     
   - title                                 : 保育園の詳細表示
-    description                           : 点員や、GoogleStreetViewで雰囲気もつかめます。その場で電話もできます。
+    description                           : 定員や、GoogleStreetViewで園周りの雰囲気もつかめます。その場で電話もできます。
     fontawesome_icon_name                 : info-circle
 
   - title                                 : 見学メモ登録
